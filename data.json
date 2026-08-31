@@ -1,0 +1,89 @@
+{
+  "updated_at": "2026-08-31T00:00:00.000Z",
+  "tools": [
+    {
+      "id": "seed-perplexity",
+      "name": "Perplexity",
+      "tagline": "Moteur de recherche IA avec reponses sourcees",
+      "url": "https://www.perplexity.ai",
+      "categories": ["chatbot", "productivite", "data"],
+      "pricing": "freemium",
+      "pricing_note": "Version gratuite complete, abonnement Pro optionnel",
+      "no_credit_card": true,
+      "source": "seed",
+      "launched_at": "2022-12-01T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    },
+    {
+      "id": "seed-elevenlabs",
+      "name": "ElevenLabs",
+      "tagline": "Generation de voix off et clonage vocal par IA",
+      "url": "https://elevenlabs.io",
+      "categories": ["voix", "audio"],
+      "pricing": "freemium",
+      "pricing_note": "Quota gratuit mensuel sans CB, abonnements payants au-dela",
+      "no_credit_card": true,
+      "source": "seed",
+      "launched_at": "2023-01-01T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    },
+    {
+      "id": "seed-runway",
+      "name": "Runway",
+      "tagline": "Generation et montage video par IA",
+      "url": "https://runwayml.com",
+      "categories": ["video", "image"],
+      "pricing": "freemium",
+      "pricing_note": "Credits gratuits a l'inscription, sans CB",
+      "no_credit_card": true,
+      "source": "seed",
+      "launched_at": "2023-02-01T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    },
+    {
+      "id": "seed-canva-magic",
+      "name": "Canva Magic Studio",
+      "tagline": "Suite IA design graphique et video integree a Canva",
+      "url": "https://www.canva.com/magic-studio",
+      "categories": ["design", "image", "video"],
+      "pricing": "freemium",
+      "pricing_note": "Fonctions IA de base gratuites, Canva Pro pour le reste",
+      "no_credit_card": true,
+      "source": "seed",
+      "launched_at": "2023-03-01T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    },
+    {
+      "id": "seed-wisesheets",
+      "name": "Finchat.io",
+      "tagline": "Assistant IA pour analyse financiere et donnees boursieres",
+      "url": "https://finchat.io",
+      "categories": ["finance", "data"],
+      "pricing": "freemium",
+      "pricing_note": "Recherches limitees gratuites, sans CB requise a l'inscription",
+      "no_credit_card": true,
+      "source": "seed",
+      "launched_at": "2023-04-01T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    },
+    {
+      "id": "seed-notion-ai",
+      "name": "Notion AI",
+      "tagline": "Assistant d'ecriture et d'organisation integre a Notion",
+      "url": "https://www.notion.so/product/ai",
+      "categories": ["ecriture", "productivite"],
+      "pricing": "payant",
+      "pricing_note": "Add-on payant sur les espaces Notion",
+      "no_credit_card": false,
+      "source": "seed",
+      "launched_at": "2023-02-15T00:00:00.000Z",
+      "youtube": null,
+      "pricing_manual": true
+    }
+  ]
+}
