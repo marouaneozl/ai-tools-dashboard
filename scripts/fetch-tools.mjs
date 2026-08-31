@@ -110,17 +110,17 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// Free, keyless translation API. Only called for taglines not already cached
-// from a previous run, to stay well within the anonymous daily quota.
+// Free, keyless translation with source-language auto-detection: Product Hunt
+// taglines aren't always English (Spanish, Persian, etc. show up too), so the
+// source language can't be assumed. Only called for taglines not already
+// cached from a previous run.
 async function translateToFrench(text) {
-  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|fr`;
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=fr&dt=t&q=${encodeURIComponent(text)}`;
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`MyMemory error: ${res.status}`);
+  if (!res.ok) throw new Error(`Translate error: ${res.status}`);
   const json = await res.json();
-  const translated = json?.responseData?.translatedText;
-  if (!translated || /MYMEMORY WARNING|INVALID/i.test(translated)) {
-    throw new Error("MyMemory translation unavailable");
-  }
+  const translated = (json?.[0] || []).map((seg) => seg[0]).join("");
+  if (!translated) throw new Error("Empty translation");
   return translated;
 }
 
