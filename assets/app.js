@@ -21,6 +21,13 @@ const PRICING_LABELS = {
   "a-verifier": "A verifier",
 };
 
+const PRICING_TITLES = {
+  freemium: "Gratuit, avec des options payantes en plus.",
+  gratuit: "Entierement gratuit.",
+  payant: "Payant des le depart.",
+  "a-verifier": "Prix pas encore confirme : verifiez sur le site officiel avant de vous inscrire.",
+};
+
 const state = {
   tools: [],
   activeTags: new Set(),
@@ -112,7 +119,7 @@ function filteredTools() {
       state.activeTags.size === 0 || (t.categories || []).some((c) => state.activeTags.has(c));
     if (!matchesTag) return false;
     if (!q) return true;
-    const hay = `${t.name} ${t.tagline} ${(t.categories || []).join(" ")}`.toLowerCase();
+    const hay = `${t.name} ${t.tagline_fr || ""} ${t.tagline || ""} ${(t.categories || []).join(" ")}`.toLowerCase();
     return hay.includes(q);
   });
 }
@@ -120,21 +127,30 @@ function filteredTools() {
 function cardHTML(t) {
   const pSlug = pricingSlug(t.pricing);
   const pLabel = PRICING_LABELS[pSlug] || "A verifier";
+  const pTitle = PRICING_TITLES[pSlug] || "";
   const tags = (t.categories || []).map((c) => `<span>${CATEGORY_LABELS[c] || c}</span>`).join("");
   const demoHref = t.youtube
     ? null
     : `https://www.youtube.com/results?search_query=${encodeURIComponent(t.name + " demo")}`;
+  const tagline = t.tagline_fr || t.tagline || "";
+  const initial = (t.name || "?").trim().charAt(0).toUpperCase();
+  const logo = t.logo
+    ? `<img class="card-logo js-logo" src="${esc(t.logo)}" data-fallback="${esc(initial)}" alt="" loading="lazy">`
+    : `<div class="card-logo-fallback">${esc(initial)}</div>`;
 
   return `
     <article class="card" data-id="${esc(t.id)}">
       <div class="card-top">
-        <h2 class="card-name">${esc(t.name)}</h2>
+        <div class="card-id">
+          ${logo}
+          <h2 class="card-name" title="${esc(t.name)}">${esc(t.name)}</h2>
+        </div>
         ${isNew(t.launched_at) ? '<span class="badge-new">NOUVEAU</span>' : ""}
       </div>
-      <p class="card-tagline">${esc(t.tagline)}</p>
+      <p class="card-tagline">${esc(tagline)}</p>
       <div class="card-badges">
-        <span class="pill pricing-${pSlug}">${pLabel}</span>
-        ${t.no_credit_card ? '<span class="pill no-cb">sans CB</span>' : ""}
+        <span class="pill pricing-${pSlug}" title="${esc(pTitle)}">${pLabel}</span>
+        ${t.no_credit_card ? '<span class="pill no-cb" title="Pas de carte bancaire demandee pour essayer.">sans CB</span>' : ""}
       </div>
       <div class="card-tags">${tags}</div>
       <div class="card-actions">
@@ -143,7 +159,7 @@ function cardHTML(t) {
             ? `<button class="js-play" data-yt="${esc(t.youtube)}" data-name="${esc(t.name)}">&#9654; demo</button>`
             : `<a href="${esc(demoHref)}" target="_blank" rel="noopener">&#9654; chercher une demo</a>`
         }
-        <a href="${esc(t.url)}" target="_blank" rel="noopener">&#8599; site</a>
+        <a href="${esc(t.url)}" target="_blank" rel="noopener" title="Ouvre le site officiel de l'outil">&#8599; site officiel</a>
       </div>
     </article>
   `;
@@ -158,6 +174,19 @@ function render() {
 
   $grid.querySelectorAll(".js-play").forEach((btn) => {
     btn.addEventListener("click", () => openModal(btn.dataset.yt, btn.dataset.name));
+  });
+
+  $grid.querySelectorAll(".js-logo").forEach((img) => {
+    img.addEventListener(
+      "error",
+      () => {
+        const fallback = document.createElement("div");
+        fallback.className = "card-logo-fallback";
+        fallback.textContent = img.dataset.fallback || "?";
+        img.replaceWith(fallback);
+      },
+      { once: true }
+    );
   });
 }
 

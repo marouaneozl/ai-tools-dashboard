@@ -9,6 +9,7 @@ const MAX_PAGES = 5;
 const PAGE_SIZE = 20;
 const MAX_AGE_DAYS = 90;
 const MAX_TOOLS = 300;
+const TRANSLATE_DELAY_MS = 350;
 
 const TOPIC_TO_CATEGORY = [
   [/design/i, "design"],
@@ -49,6 +50,7 @@ async function fetchPage(after) {
             url
             website
             createdAt
+            thumbnail { url }
             topics { edges { node { name } } }
           }
         }
@@ -86,6 +88,8 @@ async function fetchLatest() {
         id: `ph-${node.id}`,
         name: node.name,
         tagline: node.tagline,
+        tagline_fr: null,
+        logo: node.thumbnail?.url || null,
         url: node.website || node.url,
         categories: categoriesFromTopics(topicNames),
         pricing: "a-verifier",
@@ -100,6 +104,41 @@ async function fetchLatest() {
     after = pageInfo.endCursor;
   }
   return collected;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Free, keyless translation API. Only called for taglines not already cached
+// from a previous run, to stay well within the anonymous daily quota.
+async function translateToFrench(text) {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|fr`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`MyMemory error: ${res.status}`);
+  const json = await res.json();
+  const translated = json?.responseData?.translatedText;
+  if (!translated || /MYMEMORY WARNING|INVALID/i.test(translated)) {
+    throw new Error("MyMemory translation unavailable");
+  }
+  return translated;
+}
+
+async function attachTranslations(fetched, existingById) {
+  for (const tool of fetched) {
+    if (!tool.tagline) continue;
+    const prev = existingById.get(tool.id);
+    if (prev && prev.tagline_fr && prev.tagline === tool.tagline) {
+      tool.tagline_fr = prev.tagline_fr;
+      continue;
+    }
+    try {
+      tool.tagline_fr = await translateToFrench(tool.tagline);
+    } catch {
+      tool.tagline_fr = prev?.tagline_fr || null;
+    }
+    await sleep(TRANSLATE_DELAY_MS);
+  }
 }
 
 function loadExisting() {
@@ -135,7 +174,9 @@ async function main() {
     return;
   }
   const existing = loadExisting();
+  const existingById = new Map(existing.map((t) => [t.id, t]));
   const fetched = await fetchLatest();
+  await attachTranslations(fetched, existingById);
   const merged = mergeTools(existing, fetched);
 
   writeFileSync(
