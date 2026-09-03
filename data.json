@@ -1,6 +1,1823 @@
 {
-  "updated_at": "2026-09-02T11:26:47.893Z",
+  "updated_at": "2026-09-03T11:23:05.893Z",
   "tools": [
+    {
+      "id": "ph-1233966",
+      "name": "Watermarks Remover",
+      "tagline": "Clean unwanted marks from images in your browser",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/617ae9b6-d231-4c28-92e1-1ab84d4cff90.png?auto=format",
+      "url": "https://www.producthunt.com/r/5Y67SW3U6D2GZZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/watermarks-remover-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1233524",
+      "name": "Buoylog",
+      "tagline": "AI-drafted changelogs from your GitHub PRs",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/4bf04fa0-187f-4b0f-98c8-4b6cc62a4c1b.png?auto=format",
+      "url": "https://www.producthunt.com/r/DF2THLXXTTSK52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/buoylog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1232728",
+      "name": "JupLite",
+      "tagline": "Analyze Solana tokens with AI and get the cheapest swaps",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/cc18bea1-6249-4b31-892c-d43ed4d66912.png?auto=format",
+      "url": "https://www.producthunt.com/r/YZYZ2HABOWMIST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "finance"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/juplite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1232555",
+      "name": "PineMail",
+      "tagline": "Catch dev emails. Let your AI agent read them.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/f5af75ba-14ec-409d-ab1e-36a80416ff4f.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/4T7LLQEPRO67YK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/pinemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1189039",
+      "name": "Lindo.ai",
+      "tagline": "Point Claude at Lindo. It builds and ships client sites.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/7d7545a7-927b-4275-9932-30088d30dd5d.png?auto=format",
+      "url": "https://www.producthunt.com/r/YEHLZKIRPMI4HM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/lindo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239413",
+      "name": "LinkedIn Decision Makers MCP Connector",
+      "tagline": "LinkedIn decision makers, delivered via MCP no glue code",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/04c611be-d737-4376-84e4-aa83b28777c1.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/DI46HEWTOKYPL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/linkedin-decision-makers-mcp-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239839",
+      "name": "Phloem",
+      "tagline": "Your agentic software team",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/d8612fdf-aece-4f3b-a982-75d4d5d2a929.png?auto=format",
+      "url": "https://www.producthunt.com/r/332RSGLJMO3SGX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/phloem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239629",
+      "name": "ModelGateway",
+      "tagline": "Buy and Sell AI Tokens",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1cec4b57-3adc-40d8-ad86-a74146cb6a56.png?auto=format",
+      "url": "https://www.producthunt.com/r/LMENAHGKXYQHWW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/modelgateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239654",
+      "name": "ConvoForms.ai",
+      "tagline": "Hire Gus to turn missed calls into booked jobs",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/59cc4d09-f9e7-4ca9-8855-bdcf63c84692.vnd.microsoft.icon?auto=format",
+      "url": "https://www.producthunt.com/r/FY4ZBHDLYMDG4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "chatbot"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/convoforms-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239620",
+      "name": "Vows",
+      "tagline": "Wedding websites built from a sentence",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/8209a5c1-5e8a-4c72-8095-4949c93c66c2.png?auto=format",
+      "url": "https://www.producthunt.com/r/G24USDULVV3XUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/vows-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239974",
+      "name": "Lumi",
+      "tagline": "AI companions for your thoughts, moods, and moments.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/bae1d1d2-7bbf-46f9-9018-c86338d59844.png?auto=format",
+      "url": "https://www.producthunt.com/r/MPHSTEFR7GXITW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/lumi-18?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239829",
+      "name": "EU AI Act Governance Cockpit",
+      "tagline": "Turn EU AI Act Article 50 compliance into a working system",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/ade5b64b-b238-499b-b8fd-54edd498bfc9.png?auto=format",
+      "url": "https://www.producthunt.com/r/WVJOLM3DKVYMUP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/eu-ai-act-governance-cockpit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239582",
+      "name": "AAMARVA",
+      "tagline": "The network where AI agents discover and communicate",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/17a9bd0e-2aba-4b15-bcc8-148e320e6a33.png?auto=format",
+      "url": "https://www.producthunt.com/r/FPLKPZCXCFVBGI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/aamarva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239797",
+      "name": "SHOUD",
+      "tagline": "Give your computer a job.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/bf897912-33d9-449b-984d-2fd193e88414.png?auto=format",
+      "url": "https://www.producthunt.com/r/YGK32NDCBWL5SI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/shoud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239374",
+      "name": "docs.page 2.0 ",
+      "tagline": "Docs for humans + agents",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/d6d5f4f8-1bc1-4583-8078-3d6c2832ff7d.png?auto=format",
+      "url": "https://www.producthunt.com/r/7EOTZWM5TK6QQB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/docs-page-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238955",
+      "name": "buttercup.sh",
+      "tagline": "Em dashes welcome — learn how to build AI agents",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/4a9ad160-b64c-445c-88e2-294c8a7ca8fb.png?auto=format",
+      "url": "https://www.producthunt.com/r/OYONSYD3FYG4TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/buttercup-sh-web-agent-harness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239517",
+      "name": "PointBase",
+      "tagline": "UI concept, see you app before building it ",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/24fbc5db-3eb5-4ce2-b77c-fd0b6878cd4a.png?auto=format",
+      "url": "https://www.producthunt.com/r/JISXHUM2Y2CRKQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/pointbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239653",
+      "name": "Aprueba",
+      "tagline": "Turn your classes into study material with AI",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/fbb48322-13de-4432-bbde-99c7d860a10a.png?auto=format",
+      "url": "https://www.producthunt.com/r/E2MWX3VXQCONRP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/aprueba?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239554",
+      "name": "The AEO Prompt Library",
+      "tagline": "Get your brand cited in AI search",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/5fb56c2b-1fc7-4f6e-918b-1aba50647149.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/NVQUYHWYDQZZJD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/the-aeo-prompt-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239948",
+      "name": "Grok Bot Templates",
+      "tagline": "Public directory of Grok Bot templates & blueprints",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/6ed3b7b1-71c4-4940-8596-9de2344f41c2.png?auto=format",
+      "url": "https://www.producthunt.com/r/JBQR54HQDZLUYL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/grok-bot-templates?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239498",
+      "name": "Oren Study ",
+      "tagline": "Your study, all in one place, an AI tutor that remembers.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/0fda1469-d380-4888-b882-2467f506f45c.png?auto=format",
+      "url": "https://www.producthunt.com/r/A5G5XGEH6ERM46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/oren-study?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239275",
+      "name": "Ai tools rehub",
+      "tagline": "Ai tools rehub.the best online usefull tools for Everyone. ",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/64e8bb4f-8551-438c-88b6-d19937fe4e24.png?auto=format",
+      "url": "https://www.producthunt.com/r/CJZXA5SXM2C3FA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/ai-tools-rehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240083",
+      "name": "CAPS Platform",
+      "tagline": "Anticipate - Prepare - Secure",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/063ca94d-0b36-4c18-9db7-648a06d56144.png?auto=format",
+      "url": "https://www.producthunt.com/r/IFM4ZQQNGONUZA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/caps-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239931",
+      "name": "FitBrief",
+      "tagline": "See what your resume proves for one specific job",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/3f100701-2e88-47b2-8996-024fd6d0fa1b.png?auto=format",
+      "url": "https://www.producthunt.com/r/CCR3WTD2DQ2UJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/fitbrief?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239240",
+      "name": "Intepra Post Creator",
+      "tagline": "Turn one idea into content for six social platforms",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/e6deca9b-1d27-4b36-8a0b-b64182e55fab.png?auto=format",
+      "url": "https://www.producthunt.com/r/RBXOFU3XNOHS7G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/intepra-post-creator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239541",
+      "name": "ChatPicture",
+      "tagline": "Transform Your Ideas Into Stunning Images",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/47308198-88dd-47a0-8c4e-1c63199e7b3f.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/ROY3YDNRMKM4EL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "image"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/chatpicture?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1236492",
+      "name": "Fottly",
+      "tagline": "Self-hosted image API with AI background removal",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/543d4769-f668-468a-afef-de8cb7669ca2.png?auto=format",
+      "url": "https://www.producthunt.com/r/2C4TMZNML5IF52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/fottly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239945",
+      "name": "AFaaS MCP Fleet",
+      "tagline": "Local-first MCP bridges for Obsidian, files, Postgres",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c17453f9-e544-4e6a-86b0-4027cf710cf5.png?auto=format",
+      "url": "https://www.producthunt.com/r/PBCGJZWR7GGGEP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/github?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239203",
+      "name": "Parely",
+      "tagline": " daily social-scenario simulation",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c95a6934-fccb-4b4c-bbd3-69965fed0aa7.svg?auto=format",
+      "url": "https://www.producthunt.com/r/JNJFGRL3MRERI7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/parely?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240026",
+      "name": "Engram",
+      "tagline": "Global, shared and reviewable memory layer for AI agents",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/495f0002-12f2-47de-81a4-b11e4978d985.png?auto=format",
+      "url": "https://www.producthunt.com/r/G6G2L5GMBT5JTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/engram-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1237493",
+      "name": "GPTDisguise",
+      "tagline": "Disguise ChatGPT as a Google Doc",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/12cae0a9-fc78-4e8d-82c6-60fcf89b2e6b.png?auto=format",
+      "url": "https://www.producthunt.com/r/R32YPLYPR6THHQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/gptdisguise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239846",
+      "name": "Wittverse",
+      "tagline": "The project manager that updates itself.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/ecb7b77b-f71a-49a1-9c1a-588427084b4b.svg?auto=format",
+      "url": "https://www.producthunt.com/r/CVWML4ZS4SEJW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/wittverse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239700",
+      "name": "LOVEY LAND",
+      "tagline": "Your child’s interactive voice AI companion",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/68ddf8f4-9968-453e-a0be-e4c7e8081f01.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/44LUL4WJJ3UEBN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/lovey-land?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239981",
+      "name": "Remask",
+      "tagline": "Keep AI context. Keep identities on your device.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/72fb11bc-132c-47d5-9d85-498a731530d8.svg?auto=format",
+      "url": "https://www.producthunt.com/r/FFOK6XGCWOWEAG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/remask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239897",
+      "name": "Foxit Workspace",
+      "tagline": "Insights across every document. Work you can deliver",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/6da406d4-771e-4734-9c8a-af9b0c4ad39e.svg?auto=format",
+      "url": "https://www.producthunt.com/r/OYONUP55IVTRIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "ecriture"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/foxit-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239666",
+      "name": "Guardian Angel",
+      "tagline": "Giving you peace of mind, giving them independence",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/9291c06e-b8fd-48f1-ba35-cfe07df7775e.png?auto=format",
+      "url": "https://www.producthunt.com/r/NXNVM3Q2WNLNJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/guardian-angel-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239526",
+      "name": "Overclock API",
+      "tagline": "Flat-rate, unlimited-token API for coding agents",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/78ea1c62-9523-4977-9ab3-a950763862b1.png?auto=format",
+      "url": "https://www.producthunt.com/r/GA7LDX6IJYAWUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/overclock-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240031",
+      "name": "Sundial",
+      "tagline": "Real-time multiplayer AI workspace. Open source",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/48e6677e-e6ca-41b7-bf74-23af3b8edd4d.svg?auto=format",
+      "url": "https://www.producthunt.com/r/GU32B7GYQ5JMRN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "ecriture"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/sundial-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239825",
+      "name": "Oxad.ai",
+      "tagline": "Discover and compare 12,000+ AI tools in one place",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/04d84993-006e-48e9-878e-a942227855d8.png?auto=format",
+      "url": "https://www.producthunt.com/r/2T3T5HW3WDIYEZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/oxad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239193",
+      "name": "Flux 3",
+      "tagline": "AI image generator for fast visual creation",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/bd8f6e85-d9c7-430c-8ef7-12552886f7f8.png?auto=format",
+      "url": "https://www.producthunt.com/r/WZ6E7CNWE5GSGW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/flux-3-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239940",
+      "name": "WebMCP Directory",
+      "tagline": "Every website that speaks agent",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/14e056ac-798c-418d-8bde-1cd9f3a7df42.svg?auto=format",
+      "url": "https://www.producthunt.com/r/23YVV6HG7DRICP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/webmcp-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1237981",
+      "name": "Nimbalyst Teams",
+      "tagline": "Multiplayer for Claude Code and Codex",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1c554684-5b89-43cf-ade2-53cad56d9364.png?auto=format",
+      "url": "https://www.producthunt.com/r/72WKJEGCNSKNS6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/nimbalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239682",
+      "name": "Applicans",
+      "tagline": "Personalized AI college counseling with 13 tools.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/eef39b98-b129-479c-b488-ba44b2cc88f3.png?auto=format",
+      "url": "https://www.producthunt.com/r/NG56NE2YO6QQAV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/applicans?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240042",
+      "name": "isWebMCP",
+      "tagline": "Turn UI guesswork into actions you can prove using WebMCP",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/ba66bfdf-7d6a-470b-8631-ff73c8b1c512.png?auto=format",
+      "url": "https://www.producthunt.com/r/DHQRV3JPWQ26OI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/iswebmcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239867",
+      "name": "AQIWatcher",
+      "tagline": "Breathe Smarter, Live Better",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/98715457-9412-47a1-9bb8-7fce7de2b015.png?auto=format",
+      "url": "https://www.producthunt.com/r/PKFE5H5OGKEKU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/aqiwatcher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239393",
+      "name": "Tekveriq",
+      "tagline": "Reviews That Makes Sense",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1db616e2-1978-4d1f-8a0e-5ea2e3b3afcf.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/TSNQQJCVRLGNTG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/tekveriq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239944",
+      "name": "Ezra",
+      "tagline": "Your AI-powered audio/video notes and personal learning app.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/3f95f2a6-81b4-4b72-b8a1-8ee8ce4e701a.png?auto=format",
+      "url": "https://www.producthunt.com/r/PQIN74VKAHSDLN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/ezra-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238812",
+      "name": "Emma Miller...",
+      "tagline": "Find meaningful connections with verified singles.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/d92ee5b6-f2fa-4bb7-b5fe-f2f026331659.png?auto=format",
+      "url": "https://www.producthunt.com/r/PKNFBOP7ZYZXIB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/emma-miller?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1232031",
+      "name": "Agent Builder by Airtop",
+      "tagline": "Build agents that heal themselves. ",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/4034cd6b-12cc-41c7-bfae-16ebed6abd10.png?auto=format",
+      "url": "https://www.producthunt.com/r/2EYT4D2MQCUU3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1236683",
+      "name": "AIChangeColor",
+      "tagline": "Preview your next hair color with AI.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/286d0b50-eaab-44f0-a357-42cc64198069.png?auto=format",
+      "url": "https://www.producthunt.com/r/ZISV4FBVWIO5MB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/aichangecolor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1226006",
+      "name": "MagiCrew",
+      "tagline": "Give everyone their own AI workforce in one platform",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/6d85740e-11f0-41af-bbcf-25d4e107ac41.svg?auto=format",
+      "url": "https://www.producthunt.com/r/7TTRWNXQKUKM4N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239328",
+      "name": "YourArt",
+      "tagline": "Your AI design agent for images, video, and canvas",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/3ba71b81-b294-40f7-83ee-5aab41a94635.vnd.microsoft.icon?auto=format",
+      "url": "https://www.producthunt.com/r/KVPE4TWDKCSW47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/yourart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239349",
+      "name": "Causal",
+      "tagline": "AI Powered Canvas for planning visual projects",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/22b3f598-4cb8-4e35-ae09-4866ef9eff8b.png?auto=format",
+      "url": "https://www.producthunt.com/r/GD2HBP6GDSAM7R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/causal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239894",
+      "name": "Serpyn - AI Agent Networking Platform",
+      "tagline": "Humans need to network. Agents do too",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/ef077e97-5551-4620-b0c6-b4cebf7c8b50.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/LROM5BTBRRTMFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/serpyn-ai-agent-networking-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240025",
+      "name": "Omi",
+      "tagline": "Ask your computer anything you saw or heard",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/d2d5f236-c299-4a24-8040-72750eb2ee10.png?auto=format",
+      "url": "https://www.producthunt.com/r/LY6RGOFW5MIPEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238934",
+      "name": "VOXINUM",
+      "tagline": "AI built something different? VOXINUM is the solution.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/466f4c50-9b11-44dd-a585-e75883768484.x-icon?auto=format",
+      "url": "https://www.producthunt.com/r/4Q63I7H4WKQ4K2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/voxinum?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239706",
+      "name": "Higgsfield Genjutsu",
+      "tagline": "Recast motion with your characters, locations & products",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format",
+      "url": "https://www.producthunt.com/r/GEZTQXOJSXCL6N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "video"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239418",
+      "name": "HookForge",
+      "tagline": "The fastest way to write hooks that stop the scroll.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/f5b9d9cd-4ed7-4357-be66-480a20052471.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/DW2K3TX6GHT2FF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite",
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/hookforge-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239262",
+      "name": "Norvexa",
+      "tagline": "Norvexa is an AI intelligence layer for decision-making",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1cc378fe-e0a4-4553-adff-50b7b2a1518b.png?auto=format",
+      "url": "https://www.producthunt.com/r/QYMW6WRQL6F7YW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/norvexa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1237934",
+      "name": "Tikka Burrito AI",
+      "tagline": "Build a website with a phone call",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/20f90443-2101-48ec-86d2-051e001edf17.png?auto=format",
+      "url": "https://www.producthunt.com/r/MGSXE46MWZMBDL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/tikka-burrito-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1236486",
+      "name": "Source-to-Publish Evidence Gate",
+      "tagline": "Close AI-assisted publishing with evidence, not confidence.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/dfbab69c-1a4e-417e-8f9e-29ef71bfb1f9.png?auto=format",
+      "url": "https://www.producthunt.com/r/6UCS5IHEL5I4II?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "ecriture",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/source-to-publish-evidence-gate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239953",
+      "name": "Nex",
+      "tagline": "Claude Cowork for high-volume GTM workflows",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/7d330afb-0e5a-48fa-8c93-85ff4b8e62e6.png?auto=format",
+      "url": "https://www.producthunt.com/r/XMDJ7VCVJ2VC3D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239372",
+      "name": "AIMS",
+      "tagline": "See every AI tool running inside your company automatically.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/ae7a0645-a9aa-4648-ab4b-b0f1ccabba7d.png?auto=format",
+      "url": "https://www.producthunt.com/r/NPCHHXFUORTDFS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/aims-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239091",
+      "name": "The Zero-Capital AI Company Playbook",
+      "tagline": "An AI runs a real company from $0. Here's the playbook.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/5905ef0e-0130-4eb0-98a3-d8083fe9048e.png?auto=format",
+      "url": "https://www.producthunt.com/r/K44RGGJR35J3V4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/the-zero-capital-ai-company-playbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239567",
+      "name": "NOVA — AI & Spatial Framer Template",
+      "tagline": "Sleek spatial dark-mode Framer template for AI & SaaS startu",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1c428523-61a3-4dce-8456-14fc89340d5c.png?auto=format",
+      "url": "https://www.producthunt.com/r/L6CZTJIYFTILMC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/nova-ai-spatial-framer-template?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239105",
+      "name": "Fluxion AI",
+      "tagline": "AI API Gateway - low cost, more models and full transparency",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c4ab42e0-e37f-4478-bf2e-7f948dc947ad.png?auto=format",
+      "url": "https://www.producthunt.com/r/74PZTKMEWMVDFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/fluxion-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239903",
+      "name": "ClipFlare",
+      "tagline": "One long video in, ten ready-to-post clips out",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/6fad0b3b-2677-408c-ac6b-13ef7243e9c2.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/WWDSCZGVJXQG5T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "video"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/clipflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239050",
+      "name": "MyEx",
+      "tagline": "AI-powered real experiences for smarter buying",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c22e3ae8-b96e-4bad-97d9-3be547e4b4ee.png?auto=format",
+      "url": "https://www.producthunt.com/r/AZX3BGRCLBQTUM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/myex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239352",
+      "name": "Imgstyler",
+      "tagline": "Create, restyle, and edit AI images in one studio",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/b470538d-1365-48e9-890c-3f30d76d71d1.png?auto=format",
+      "url": "https://www.producthunt.com/r/CTO325NTFMEBTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "image"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/imgstyler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239584",
+      "name": "CHECK$OUT ",
+      "tagline": "Eliminate the Guessing",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/f4a79682-72b5-442b-a79d-2748bbd1761f.png?auto=format",
+      "url": "https://www.producthunt.com/r/4WH5Q2BBF4BF2E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/check-out?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239423",
+      "name": "Qixoo Your AI web agency today. No code",
+      "tagline": "AI-powered CMS for modern web apps",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/2e0a420d-b5e0-4f12-98cd-62a1e41239e3.png?auto=format",
+      "url": "https://www.producthunt.com/r/HCIZRTSD654QDI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/qixoo-your-ai-web-agency-today-no-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238338",
+      "name": "SoftNo",
+      "tagline": "Decode subtle workplace English for non-native speakers",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1b10ff4b-08b2-4a93-85fe-b8d8a510b61e.png?auto=format",
+      "url": "https://www.producthunt.com/r/2G6QZ45OOF7BZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/softno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239575",
+      "name": "CherishVow",
+      "tagline": "Studio-quality AI wedding portraits from your own photos",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/9e500aea-2bef-44ef-84d2-8d4d2800a772.png?auto=format",
+      "url": "https://www.producthunt.com/r/RUIBSKE26IURFS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "image"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/cherishvow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239268",
+      "name": "RoboForger - Idea to buildable robot",
+      "tagline": "Forge your robot from an idea.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c5dbb51c-dff7-4680-b352-2d3295005c9b.png?auto=format",
+      "url": "https://www.producthunt.com/r/B6RZBBHHK67P5N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/roboforger-idea-to-buildable-robot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239817",
+      "name": "Junior 3.0!",
+      "tagline": "Comment on LinkedIn as your company page",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/9e0bb9d8-1217-4e40-a218-1a19f8cca22e.png?auto=format",
+      "url": "https://www.producthunt.com/r/44ORBAWWIJGQ2J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/junior-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239282",
+      "name": "ExposurAI",
+      "tagline": "Automated Attack Surface Management & AI Threat Intelligence",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/bf2a369f-c482-44c4-b385-dff9f4aeb6f3.png?auto=format",
+      "url": "https://www.producthunt.com/r/6GMXCARG67RMWP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/exposurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239805",
+      "name": "Easedial Ucaas and Ccaas",
+      "tagline": "Easedial provides inbound and outbound call starting 10$.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/5382a43f-0115-494c-b7af-2d89af4a9dd4.png?auto=format",
+      "url": "https://www.producthunt.com/r/JYZKUCLBFP7JPH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/easedial-ucaas-and-ccaas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1235899",
+      "name": "AnswerMeld",
+      "tagline": "Cross-check AI answers with independent AI reviewers",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/0085678a-1110-4fdf-99f4-b881c83b0f50.png?auto=format",
+      "url": "https://www.producthunt.com/r/24PQYEX25OT76G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/answermeld?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238389",
+      "name": "Blitz Content AI",
+      "tagline": "Cheap AI SEO content with real Google data",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/8861e670-8e5a-49b6-b4cd-f106a60022a0.png?auto=format",
+      "url": "https://www.producthunt.com/r/FV26YCJMXQRL7Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "marketing"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/blitz-content-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239691",
+      "name": "Readr",
+      "tagline": "A free reader that answers your questions and reads aloud",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/1905d2aa-af7d-4b6f-9d59-98784c5d4ec8.png?auto=format",
+      "url": "https://www.producthunt.com/r/25BJNDJATSKMUS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/readr-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239769",
+      "name": "Travsr",
+      "tagline": "Code Graph that lives next to git.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/5849c83b-1757-4718-8eaa-37eece866455.png?auto=format",
+      "url": "https://www.producthunt.com/r/NSFY4PTND5KEQF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/travsr-is-now-open-source-apache-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1228465",
+      "name": "Tabbit AI ",
+      "tagline": "Give your browser a task, not just a question",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/381fca59-f160-4cf1-a811-870d17262904.x-icon?auto=format",
+      "url": "https://www.producthunt.com/r/KCA4XB6BI4IKXW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/tabbitai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238755",
+      "name": "Tidy",
+      "tagline": "Fix grammar in any Mac app with free on-device AI",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/891f6b20-444b-466b-bc2a-5cb7273d0ce0.png?auto=format",
+      "url": "https://www.producthunt.com/r/GU4VL44VXET6LD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "ecriture"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/tidy-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1231840",
+      "name": "ARBR",
+      "tagline": "Control Every AI Request",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/58ca9dc7-23ed-4079-bd62-c48cafd9460b.png?auto=format",
+      "url": "https://www.producthunt.com/r/CDSH77AJGQBJZV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/arbr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239165",
+      "name": "Mockify",
+      "tagline": "Turn any topic into a timed mock test",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/caf00553-e98b-4628-9bfc-56fe19385a4a.png?auto=format",
+      "url": "https://www.producthunt.com/r/FVBFM3J24RCI2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/mockify-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239850",
+      "name": "Vioscale AI",
+      "tagline": "The evidence layer AI cites when recommending software",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/d82fa533-772e-4e1b-9f8c-e2636ecb9190.svg?auto=format",
+      "url": "https://www.producthunt.com/r/AWN3H5N3QYEPZQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "marketing",
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/vioscale-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1237762",
+      "name": "Global Weather Pro",
+      "tagline": "Bring live, animated weather to your WordPress site",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/78345afe-7eda-457d-ba43-6d268d554457.gif?auto=format",
+      "url": "https://www.producthunt.com/r/SRYAL5LOQBOH64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/global-weather-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239428",
+      "name": "Blink Prompts",
+      "tagline": "Tested AI image and video prompts with real previews",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/3e1ac154-d122-4c8d-9dbc-6e63aeebf509.webp?auto=format",
+      "url": "https://www.producthunt.com/r/WHEBFQTH23WK73?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/blink-prompts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239933",
+      "name": "RevaultAI",
+      "tagline": "The AI-Native Creative Vault for Independent Filmmakers",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/6b51a496-f73c-45e1-97ec-2d7e66285a1d.png?auto=format",
+      "url": "https://www.producthunt.com/r/BACYO7GI5I6BQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "video"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/revaultai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239628",
+      "name": "assets.baby",
+      "tagline": " Approve game screen. Get an asset pack that matches it.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/fa3181a7-3764-43a4-96d5-b73ac1b3d1f2.png?auto=format",
+      "url": "https://www.producthunt.com/r/L7E7MZQQAHO3VC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/assets-baby?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239315",
+      "name": "VideoAI360",
+      "tagline": "Turn long videos into viral Shorts with AI",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c75c7b45-c6c7-4947-9552-4a5704b88a49.png?auto=format",
+      "url": "https://www.producthunt.com/r/YYM55MBHKTZ3RF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "video"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/videoai360?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239660",
+      "name": "CallAgent AI",
+      "tagline": "The first AI Voice Receptionist built for Indian Businesses",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/44643da5-8ce2-4431-82fe-879b0e3a9c69.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/5M3OXG2JDW6PDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/callagent-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1240055",
+      "name": "Snacker",
+      "tagline": "Use AI to find and categorize ingredients in food packets",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/cdec7258-09dd-460a-822b-3143b7cc5ce5.png?auto=format",
+      "url": "https://www.producthunt.com/r/AQCY3GT63S3IMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/snacker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239878",
+      "name": "CampusCAT",
+      "tagline": "Plan smarter. Study better. Succeed in college.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/538f189e-86eb-410f-a533-663173018856.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/SC4SVYGKZE764Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/campuscat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1237425",
+      "name": "AgentForge",
+      "tagline": "Build AI agents just by chatting",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/7e213bd0-253c-4700-a7f2-3899b64a3539.svg?auto=format",
+      "url": "https://www.producthunt.com/r/UH57YZWFZEQOVQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/agentforge-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1137283",
+      "name": "Likeness: Imagine with AI",
+      "tagline": "Imagine yourself in any scene with AI-powered face swapping",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/c8062be5-1f55-4378-8079-90b7b40fb0ca.png?auto=format",
+      "url": "https://www.producthunt.com/r/YPJKSCB32CI7IZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "image"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/likeness-imagine-with-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239235",
+      "name": "Trace AI Face Scan",
+      "tagline": "  Reverse face search in your browser, one photo, no sign-up",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/487e38a6-2107-441c-afa7-62d0bdd833ab.png?auto=format",
+      "url": "https://www.producthunt.com/r/JRUVSKSQ2QSXZM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/trace-ai-face-scan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239460",
+      "name": "neolabs.top - All-in-one local AI tools",
+      "tagline": "Local AI: BG Remove, Vocal Sep, PDF. No Upload. Private.",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/f116058f-ece7-442f-beac-de28230d64d1.png?auto=format",
+      "url": "https://www.producthunt.com/r/YXI2PDH2PE4ERO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "design",
+        "productivite"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/neolabs-top-all-in-one-local-ai-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1239502",
+      "name": "YourWay",
+      "tagline": "AI-powered custom courses, 24/7 mentor & knowledge graphs",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/e4f92e49-f4d8-4c82-b727-7f5d769fa2bd.png?auto=format",
+      "url": "https://www.producthunt.com/r/VGW4XMH3MUMXXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "autre"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/yourway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
+    {
+      "id": "ph-1238997",
+      "name": "Atlas by World Labs",
+      "tagline": "Turn text, pics, video, + 3D into camera-controlled HD video",
+      "tagline_fr": null,
+      "logo": "https://ph-files.imgix.net/713fe256-46d2-4a3b-84b4-fcba4fe59d83.jpeg?auto=format",
+      "url": "https://www.producthunt.com/r/7ZC3M4VAAJWXV3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "categories": [
+        "dev"
+      ],
+      "pricing": "a-verifier",
+      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
+      "no_credit_card": null,
+      "source": "producthunt",
+      "source_url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
+      "launched_at": "2026-09-03T07:01:00Z",
+      "youtube": null
+    },
     {
       "id": "ph-1239215",
       "name": "KAI - Agentic AI Platform",
@@ -3633,1823 +5450,6 @@
       "source_url": "https://www.producthunt.com/products/seamless-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
       "launched_at": "2026-09-01T07:01:00Z",
       "youtube": null
-    },
-    {
-      "id": "ph-1226002",
-      "name": "BrandJet",
-      "tagline": "Turn public buying signals into sales pipeline",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c1ca3ea5-fdfc-476e-8066-ca3c3b314b52.png?auto=format",
-      "url": "https://www.producthunt.com/r/NTN6BE7PSJWFWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1225427",
-      "name": "Interactive Sessions",
-      "tagline": "Drive the full SDLC with AI agents, step by step",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/dee4d70a-480f-46f4-8fd2-726dc3d35ed2.gif?auto=format",
-      "url": "https://www.producthunt.com/r/L7YVCYBWPR4HFC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235226",
-      "name": "Radar by Particle",
-      "tagline": "The Podcast Search Engine",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/a3b9d2a6-53a8-431f-9805-c3266a928352.png?auto=format",
-      "url": "https://www.producthunt.com/r/BLWELKQSMI42CU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/particle-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1224981",
-      "name": "Video Agent by Fotor",
-      "tagline": "Create and edit precision motion graphics & video with chat",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/118184e4-7d9c-46d3-beb0-e28c93c673bb.png?auto=format",
-      "url": "https://www.producthunt.com/r/KMJ6C2OCHCE4UL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design",
-        "video"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236868",
-      "name": "PolishAI",
-      "tagline": "Write better messages. Get the right reply in seconds.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/4aebc1bd-5b12-4b59-b85c-3b92e39efea0.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/5BS35JOGKJ35EL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/polishai-ai-message-reply-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237024",
-      "name": "AI Workflow Delivery Kit",
-      "tagline": "Turn vague OCR and agent jobs into testable scope",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/1cf81f91-5887-4cec-a178-9bc8858bd47f.png?auto=format",
-      "url": "https://www.producthunt.com/r/LIUREZZ4DIPCEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-workflow-delivery-kit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236368",
-      "name": "Neyvo3D",
-      "tagline": "Turn one product photo into an inspectable 3D model",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/13fb0edb-5ee8-4efa-a23b-3fc2267c5fad.png?auto=format",
-      "url": "https://www.producthunt.com/r/7RNT2TTSJMY3QD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/neyvo3d?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236763",
-      "name": "GOLPILOTO",
-      "tagline": "GOLPILOTO ayuda a entrenadores y clubes deportivos ",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/d8da7ba0-4079-44ad-9a73-14cf23f81294.png?auto=format",
-      "url": "https://www.producthunt.com/r/HMXN5SPH2ENARK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/golpiloto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236518",
-      "name": "MCSkinTools",
-      "tagline": "Create, convert and edit Minecraft skins in your browser",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/75c787e8-c643-4897-82f6-5defcad00010.png?auto=format",
-      "url": "https://www.producthunt.com/r/UQ3NMZ45FBBQDN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/mcskintools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236536",
-      "name": "AI Pro Lab",
-      "tagline": "دایرکتوری فارسی ابزارهای هوش مصنوعی،پرامپت هوش مصنوعی",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/92ba2237-6c30-450a-86c0-37ce04fd7d75.webp?auto=format",
-      "url": "https://www.producthunt.com/r/NCM2B2RIFUX6TK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-pro-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1229960",
-      "name": "Solis AI",
-      "tagline": "Your agentic AI companion for content creation.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/913c39ff-bbe0-406e-aeb4-55d801617dde.png?auto=format",
-      "url": "https://www.producthunt.com/r/ADRB4GWYD2RQ46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "video"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/solis-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236320",
-      "name": "DriftGard",
-      "tagline": "Runtime governance for production AI",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/5d78f15d-4641-4246-b82c-074df45063f1.svg?auto=format",
-      "url": "https://www.producthunt.com/r/OBGRYF5CNX73X3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/driftgard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236452",
-      "name": "Nell (Open Source Instinct)",
-      "tagline": "A personal AI agent you text to get things done",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/76bc6756-c914-4fa1-8910-145eab12b433.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/V3B5O2KCHKKA7J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "chatbot"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/nell-open-source-instinct?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236359",
-      "name": "LangTo",
-      "tagline": "PDF translation you can check before you hand it over",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/a0f08a63-578e-42c0-b9ce-2b0441c8fc9d.png?auto=format",
-      "url": "https://www.producthunt.com/r/TUFFFVXOCF4CP7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/langto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236318",
-      "name": "RestoVision AI",
-      "tagline": "AI-powered restaurant monitoring and operations platform",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c2b0af06-ddbb-4aff-8b0e-8d50c7140369.png?auto=format",
-      "url": "https://www.producthunt.com/r/YBDEPNTRGB5LVJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/restovision-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235129",
-      "name": "Idea Forge",
-      "tagline": "Validate your ideas here with detailed report",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/3b119fb3-db77-45fe-925d-f84325863d8b.png?auto=format",
-      "url": "https://www.producthunt.com/r/BKZ67W6PJLBUYG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/idea-forge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1234728",
-      "name": "LivingPDF AI",
-      "tagline": "Turn PDFs into multilingual web experiences",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/ee0e06b3-95f3-435c-85fe-cce3bb0bd6db.vnd.microsoft.icon?auto=format",
-      "url": "https://www.producthunt.com/r/MH5HYUVWKPBBUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/livingpdf-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235936",
-      "name": "Ai Thumb",
-      "tagline": "Ai Local LLM Automation Tool , Software or Hardware",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/f1053868-bda9-46ae-9d10-9568dbf48ab3.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/VXS22LSMMCPRTO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-thumb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1234036",
-      "name": "Tech Trends Data Toolkit",
-      "tagline": "5 real-time data APIs for AI agents and tech professionals.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/fca8b5d4-d480-4ffd-929e-aa197e37eb78.png?auto=format",
-      "url": "https://www.producthunt.com/r/VL7W6YOUMWPONJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev",
-        "data"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/tech-trends-data-toolkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236842",
-      "name": "RxLoop. ",
-      "tagline": "Medicine you can verify",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/bf020183-5727-4bcd-843f-d20881ca1706.svg?auto=format",
-      "url": "https://www.producthunt.com/r/3BLGJCCQAFAQJ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/rxloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236789",
-      "name": "mcpbeat",
-      "tagline": "Uptime, installs and code checks for 25,000 MCP servers",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/035f65bd-45b3-4c41-be0b-f577929871ea.png?auto=format",
-      "url": "https://www.producthunt.com/r/GPR2LLPPOCOHUJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/mcpbeat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236962",
-      "name": "VIC-E TokenSaver",
-      "tagline": "Local, cross-client token savings with built-in evidence",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/697fa93c-b122-4872-9d14-4c5dae9bc96e.png?auto=format",
-      "url": "https://www.producthunt.com/r/GRZRHXDZEAUYE2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/vic-e-tokensaver?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237002",
-      "name": "OracleOdds AI",
-      "tagline": "The AI sports model that grades itself in public",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/5408d6b8-250a-4104-bd72-2dc41e820f43.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/7BJGM3ZNC7JPWO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/oracleodds-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236770",
-      "name": "crossexam.me Platform",
-      "tagline": "Assist witnesses to be better in Court crossexamination",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/bc93a877-8055-4a8b-a578-170a314adad8.png?auto=format",
-      "url": "https://www.producthunt.com/r/FCQEMWWIWXQTWX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/crossexam-me-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236836",
-      "name": "DealCheck",
-      "tagline": "The independent second opinion before you sign",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/b73da294-1ef3-47bd-aa47-a85f0b4d4b13.png?auto=format",
-      "url": "https://www.producthunt.com/r/6KTRTUV5D3FUWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/dealcheck-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236781",
-      "name": "Unlocked",
-      "tagline": "Unlock what's out there",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/8b3da92e-0aee-4344-adc8-0a3f17bbdcb6.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/LHP7VRY6PZNBYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/unlocked?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236585",
-      "name": "SparkTrain",
-      "tagline": "Practice any language with an AI chat partner, free and fast",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/7be5c3ad-23e3-45a5-9e74-2e6f14d5380c.vnd.microsoft.icon?auto=format",
-      "url": "https://www.producthunt.com/r/GGZMDFLRTZQRJQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/sparktrain-ai-language-chat-partner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1220240",
-      "name": "QueryTrace llms.txt Generator",
-      "tagline": "Generate a real llms.txt file for any site",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/041e109f-559b-4325-9c9a-fdb42c2e50fc.png?auto=format",
-      "url": "https://www.producthunt.com/r/S32A4HFVWTJBSY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/querytrace-llms-txt-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236325",
-      "name": "AI Enhancer",
-      "tagline": "Enhance and restore images with AI",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/efd96fa8-3066-4d7c-8683-6a5f852ecbf1.png?auto=format",
-      "url": "https://www.producthunt.com/r/XZCBL6HWBFOACA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design",
-        "video",
-        "image"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-enhancer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236645",
-      "name": "Graded Prompts",
-      "tagline": "Buy AI prompts tested and graded before they went on sale",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c6c8d8e2-4a1b-4fda-a78f-54e550c1cf69.png?auto=format",
-      "url": "https://www.producthunt.com/r/RTXSWQ7OKYMDHZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/graded-prompts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1203594",
-      "name": "A2M Beta Launch",
-      "tagline": "List your AI project with one CLI command.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/b2e76e02-c352-4a26-a933-37386e34ab1e.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/H5PWPZVYBMYINV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/a2m?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236595",
-      "name": "Dexicle",
-      "tagline": "The AI SDLC platform that remembers everything.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c309004e-2e7e-4f09-82bf-5f51bbc6bc17.x-icon?auto=format",
-      "url": "https://www.producthunt.com/r/RBQIFWYCBK2MIQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/dexicle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236172",
-      "name": "Lotti",
-      "tagline": "Private logbook where AI proposes and you approve",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/52401dfb-5e57-4851-9807-9b45ca9f9e1c.png?auto=format",
-      "url": "https://www.producthunt.com/r/5Y6ZMI7N3FMHX3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/lotti?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236583",
-      "name": "BuildPromptKit",
-      "tagline": "AI prompts that ship real UI — every one has a live demo",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/eb6d60e2-246a-4b4b-bfd3-601efba6767f.png?auto=format",
-      "url": "https://www.producthunt.com/r/YFFOYVOSUUZMNS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/buildpromptkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236891",
-      "name": "Hybrid RAG",
-      "tagline": "Zero-cloud SQLite FTS5 RAG engine & GitHub Action",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/b3bb4afa-7008-41da-97ea-459ed8844dda.svg?auto=format",
-      "url": "https://www.producthunt.com/r/ZPIERHWXS6TE46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/hybrid-rag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235917",
-      "name": "Orato",
-      "tagline": "Practice speaking with AI.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/d846b276-649f-4bb5-a0e7-6aaf41b92e1a.png?auto=format",
-      "url": "https://www.producthunt.com/r/HFET4EV36YRPHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237098",
-      "name": "AI Hug",
-      "tagline": "Create AI images and videos with leading models",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/2489f648-dbf2-4162-bcc8-e71f45050c69.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/WRJNACOA2PRGKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-hug-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236450",
-      "name": "Zero-Cost AI Admin Assistant",
-      "tagline": "Turn your inbox chaos into a system using only free AI tools",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/f7c40f05-6ca5-429d-9e4e-461cdf379de9.png?auto=format",
-      "url": "https://www.producthunt.com/r/HPAZ2B6U3M6W44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/zero-cost-ai-admin-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1232207",
-      "name": "WorkspaceGuard",
-      "tagline": "Usage caps for shared self-hosted AI assistants",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/1817f082-284a-4ad5-8c53-566f6b4f9c16.png?auto=format",
-      "url": "https://www.producthunt.com/r/B6RRTRW62LA3CN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/workspaceguard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236698",
-      "name": "StrictCite — Reference Audit Studio",
-      "tagline": "No LLM. No invented DOIs. Just 13 registries and proof.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/bd371ef2-7a0b-4e87-8ac7-d740f1c8700f.png?auto=format",
-      "url": "https://www.producthunt.com/r/GPOYLHSNZIGWHA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/strictcite-reference-audit-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236949",
-      "name": "THE NANOVERSE",
-      "tagline": "Redefining how we work with computers.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/e14a97a4-897b-422f-a7ff-f0ba4c27bc89.png?auto=format",
-      "url": "https://www.producthunt.com/r/CULKJTVE3MO7OO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/the-nanoverse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236625",
-      "name": "Orofex",
-      "tagline": "Buy ready-to-use software & launch instantly",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/8520801c-172b-4d4a-a25e-978eea56228e.png?auto=format",
-      "url": "https://www.producthunt.com/r/JIJHNLZC4VGWAI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/orofex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236628",
-      "name": "VideosPrompt",
-      "tagline": "Discover, share and create better AI video prompts",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/1f3e79ec-e7bd-41ce-8031-07793327e3dd.png?auto=format",
-      "url": "https://www.producthunt.com/r/MDPYYEZZYPHSS5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design",
-        "video"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/videosprompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236693",
-      "name": "CCMB",
-      "tagline": "All your AI coding limits in one Mac menu bar",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/3812f162-74ca-4ca6-a3e9-9d5162bff17b.png?auto=format",
-      "url": "https://www.producthunt.com/r/RYAVZQQ7MRV6I7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ccmb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236462",
-      "name": "ExcelFormulaAI",
-      "tagline": "Free AI Excel Formula Generator & In-Browser File Processor",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/321c5346-67a2-4dd1-a1e4-55fd57744d0f.png?auto=format",
-      "url": "https://www.producthunt.com/r/65VKE4XPLH7ZB3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/excelformulaai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236952",
-      "name": "Marginalia",
-      "tagline": "AI that reads your vendor contracts so you don't have to",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/50f44a91-aaef-4e09-a8b9-a8415514b3f3.png?auto=format",
-      "url": "https://www.producthunt.com/r/HXALZAJ2OXLCMW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/marginalia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236326",
-      "name": " Graphix",
-      "tagline": "AI charts from plain English. 140+ types, free.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/aadbd736-6601-4145-8243-f24ce07f3c3f.png?auto=format",
-      "url": "https://www.producthunt.com/r/EAEP5TP2XZM2KM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "data",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/graphix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1234799",
-      "name": "Prospetra",
-      "tagline": "Turn website audits into sales with AI outreach & pipeline",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/858b3055-13ba-49be-9dfc-dcbb8d59e5fc.svg?auto=format",
-      "url": "https://www.producthunt.com/r/V272PDHKRCNAN2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/prospetra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1234950",
-      "name": "SellBox",
-      "tagline": "AI price tracking that wins the Trendyol marketplace buybox",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/43ca1d01-b18a-455f-a3f0-98276e456ee0.png?auto=format",
-      "url": "https://www.producthunt.com/r/WPQTXJT4LRSDBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/sellbox-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236447",
-      "name": "Vettyn",
-      "tagline": "Find the 3 biggest problems hurting your landing page",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/54649e6b-00d1-4501-998d-8f0be027d9b0.vnd.microsoft.icon?auto=format",
-      "url": "https://www.producthunt.com/r/ZDVDZ6KFGLEWYQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/vettyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1231790",
-      "name": "ESGenious",
-      "tagline": "AI-Powered ESG Intelligence for a Sustainable Future",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/14b6c989-56c5-43f7-a296-e23487513e9e.png?auto=format",
-      "url": "https://www.producthunt.com/r/B7NCEPIPTYCKT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/esgenious?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1233099",
-      "name": "Guardian Collective",
-      "tagline": "Intelligence for connected parents. Build trust through talk",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/16554a68-37c0-49f8-841f-c6f11591b979.png?auto=format",
-      "url": "https://www.producthunt.com/r/RGB6UD56RMVHZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/guardian-collective?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236474",
-      "name": "mm-gateway",
-      "tagline": "api gateway, video, music, image",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/f25788f5-0903-4125-a270-79c2a28c2936.svg?auto=format",
-      "url": "https://www.producthunt.com/r/AWS35ZZNOMK56T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/mm-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236396",
-      "name": "AI Inventory Toolkit + Guide",
-      "tagline": "Manage your AI systems, Dashboard for quick access",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/cef58261-16c0-417d-a1a2-dbaec9e53bcc.png?auto=format",
-      "url": "https://www.producthunt.com/r/HBOAX4WB6YW2IV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-inventory-toolkit-guide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236419",
-      "name": "QuoteDashAI",
-      "tagline": "Voice note in, professional quote out. Built for tradies.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/7f313760-4319-49d6-b9c8-48565096e422.png?auto=format",
-      "url": "https://www.producthunt.com/r/YRKDV2NXFG4X7A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/quotedashai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236387",
-      "name": "Eres ERP",
-      "tagline": "The ERP your AI can actually work with",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/218e5ef2-c71a-43c8-9165-c308c373dd5b.png?auto=format",
-      "url": "https://www.producthunt.com/r/FUGYEIA3ZZCJEK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "finance"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/eres-erp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1233873",
-      "name": "BeatLab",
-      "tagline": "Turn text into full AI songs & synchronized music videos",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/e72f8feb-cc1c-4770-b2a5-01fd8a505374.png?auto=format",
-      "url": "https://www.producthunt.com/r/HWVAF2RJX763NS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "audio"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/beatlab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235215",
-      "name": "Gridstate",
-      "tagline": "Grid capacity evidence for large load sites",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/10429a55-00dd-48f4-b809-fae7bee4ffcf.png?auto=format",
-      "url": "https://www.producthunt.com/r/QQ3CIAWJ7OSBZZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/gridstate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236241",
-      "name": "TalkBuddy",
-      "tagline": "Practice speaking real conversations a few minutes a day.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/6c84e867-ea18-4939-8d9d-db0212a4d7b0.png?auto=format",
-      "url": "https://www.producthunt.com/r/BIT2RJ6WD32HUO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/talkbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1233282",
-      "name": "MARK C — Counterfactual Intelligence",
-      "tagline": "MARK C — See what happens before you decide.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/240a0d9e-e91b-47f7-a5a7-19a6a76634eb.png?auto=format",
-      "url": "https://www.producthunt.com/r/VWSQBJZGKKPYYE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "data"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/veritas-ai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235267",
-      "name": "Gyani AI",
-      "tagline": "Educational AI Tutors and apps for all levels ",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/fc392f6d-d224-4192-b9b0-183a2360e545.png?auto=format",
-      "url": "https://www.producthunt.com/r/KELNNYJQF5TBJY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/gyani-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236877",
-      "name": "SENTINEL FORGE",
-      "tagline": "Nutrition, biometrics, sleep - the data-driven training OS",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c10ad843-8d4f-48ee-b7ea-98cba2e29027.png?auto=format",
-      "url": "https://www.producthunt.com/r/OY6TU4I2BB5PGM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/sentinel-forge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237143",
-      "name": "NanoPic AI",
-      "tagline": "Generate, edit and upscale AI images in one workspace",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/bc902bc7-b975-4ba1-8754-ec9ce818018e.png?auto=format",
-      "url": "https://www.producthunt.com/r/WG44BTE5NQUVGB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/nanopic-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236982",
-      "name": "Am I Toast?",
-      "tagline": "Find out exactly how doomed your job is by AI",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/5f93c167-1129-4973-b072-c5adc2010fba.png?auto=format",
-      "url": "https://www.producthunt.com/r/Y57NAT4K7KVE6O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/am-i-toast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235694",
-      "name": "TypeTap.io",
-      "tagline": "AI‑powered multi‑language typing speed test, no sign‑up",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c5c884f7-6ae4-47ee-84c9-677d8f3be34c.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/ACSXWDTRRRNKEZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/typetap-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235557",
-      "name": "Codex Skin",
-      "tagline": "Curated themes for ChatGPT Desktop",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/80b77d3b-0635-4ccd-a9ae-ae2e99fe2803.png?auto=format",
-      "url": "https://www.producthunt.com/r/RF4JLRUUWZI3ZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/codex-skin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236931",
-      "name": "Ronin Discipline Ai Bot",
-      "tagline": "AI accountability system. Daily commitments, AI mentor.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/6c8ce520-d5c8-424e-aaad-edb24a13f3d7.png?auto=format",
-      "url": "https://www.producthunt.com/r/QBXZO6WSSVEHWQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ronin-discipline-ai-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1227266",
-      "name": "Ai Club",
-      "tagline": "Find AI builders, communities, and projects across Indonesia",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/de81fafb-b396-4ccc-a21a-2e88272c172c.png?auto=format",
-      "url": "https://www.producthunt.com/r/XR4OEONMUMQ5ZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237073",
-      "name": "HumanAssist",
-      "tagline": "Instant 1-on-1 human problem solver when AI bots fail",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/5d687e03-b9e9-43fc-886b-391f0831cae2.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/7RZUM4KNVRYP5J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/humanassist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236449",
-      "name": "Stop the Slop",
-      "tagline": "Browser extension to detect AI-generated YouTube scripts.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/69faf1c1-8cfe-48e9-883f-bba1ff24d1e4.png?auto=format",
-      "url": "https://www.producthunt.com/r/A5S5YA6TNM3F46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/stop-the-slop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236700",
-      "name": "Shop Route: Smart Grocery List",
-      "tagline": "Add groceries faster. Shop with less effort.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/10504c10-cbff-4e04-933c-16d3075810cd.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/N5CWBZZPVP7APA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/shop-route-smart-grocery-list?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236761",
-      "name": "AI Math Solver",
-      "tagline": "Solve math problems with step-by-step AI explanations",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/e71d604a-0459-4ea4-8ef8-2140e9def2fb.png?auto=format",
-      "url": "https://www.producthunt.com/r/RAD5W3OGAL33GI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-math-solver-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235795",
-      "name": "Reshoot — Every Resellers Dream",
-      "tagline": "Create professional studio photos in seconds",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/e4756f0b-c898-4bcf-94ee-f3d673520769.png?auto=format",
-      "url": "https://www.producthunt.com/r/WJSA7EZOB3HGDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "image"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/reshoot-every-resellers-dream?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235683",
-      "name": "Warpforge",
-      "tagline": "Plan in Claude Code, build in Codex, review in OpenCode",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c65672b8-73f8-409e-8555-ea386521f002.png?auto=format",
-      "url": "https://www.producthunt.com/r/VDDTUI75NOVZ4W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/warpforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236750",
-      "name": "AIpilot",
-      "tagline": "AI That Runs Your Company While You Sleep",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/d4e626d1-3164-4d15-a0f3-1952dd089261.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/GLRDEVAUVRK4BU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/aipilot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235656",
-      "name": "Snap Analyzer",
-      "tagline": "Instant AI chart analysis, entry signals & price targets",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/6e5b6418-26ac-44f5-aa6b-3627528128a9.png?auto=format",
-      "url": "https://www.producthunt.com/r/6HKF2PIVARL5LY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "finance"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/snap-analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236558",
-      "name": "BrateAI",
-      "tagline": "Your AI companion for advice, ideas, and creativity",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/c17d76cf-80f5-4caf-8597-5672116b9528.png?auto=format",
-      "url": "https://www.producthunt.com/r/EITSACIDCMNOF3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/brateai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236618",
-      "name": "Choicey",
-      "tagline": "The smartest way to find your next car.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/d85bd71b-3302-445a-809f-52354ae103e0.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/2ITLQNNXJH7E7G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/choicey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1233789",
-      "name": "AI Career Engine",
-      "tagline": "Turn your CV into a personalized career roadmap",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/131f908d-3c47-4f49-a52f-215ce431d46d.png?auto=format",
-      "url": "https://www.producthunt.com/r/7GPBJGQP52FRIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ai-career-engine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236386",
-      "name": "Whisperer",
-      "tagline": "Your AI copilot for every conversation",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/bb79aaec-bd9b-4146-914e-bfb85f7c85d1.png?auto=format",
-      "url": "https://www.producthunt.com/r/R4FKBBW4LHHSBQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/whisperer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1232294",
-      "name": "Nolimits Evolution",
-      "tagline": "Boost your daily productivity and lifestyle ",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/736778b8-0aa1-4654-9ec1-66e8d77f96b3.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/DSQQ2Q2XCOTCAP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/nolimits-evolution?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236380",
-      "name": "Twinkle",
-      "tagline": "An AI companion that teaches kids to think.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/e3f714bf-52ba-4747-a904-fe43c1229a65.png?auto=format",
-      "url": "https://www.producthunt.com/r/JQGANENRCYAXGS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/twinkle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236384",
-      "name": "Recall",
-      "tagline": "Remember What you Learn",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/db6514ac-6733-4eae-bc37-95fad32fa781.png?auto=format",
-      "url": "https://www.producthunt.com/r/A4FYN63UVYCTJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/recall-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236641",
-      "name": "LinkPass",
-      "tagline": "Evidence-locked ATS resume tailoring on LinkedIn",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/3286bbfc-35ac-487d-956d-29d306061c91.png?auto=format",
-      "url": "https://www.producthunt.com/r/AMEROUC4W6MCGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/linkpass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236354",
-      "name": "ResuAlign",
-      "tagline": "Optimize your resume for ATS without breaking your layout",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/cc611ed8-4ad9-4d61-a3fe-bafa3545161c.png?auto=format",
-      "url": "https://www.producthunt.com/r/B3URPTMDCZZTF2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/resualign?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1237026",
-      "name": "NeedFeed",
-      "tagline": "NeedFeed · Turn Reddit noise into a feed of needs.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/9d6b3804-42d8-4e5c-90fe-2786607e987a.png?auto=format",
-      "url": "https://www.producthunt.com/r/JAHRXKGC2O5HIJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/needfeed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236905",
-      "name": "Um Out AI",
-      "tagline": "Automate the tedious parts of editing in Premiere Pro",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/915ec00c-7332-4119-acab-efe9b27949f0.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/I4VVUCBBFYNIJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "video"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/um-out-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236516",
-      "name": "TeloStack Global",
-      "tagline": "Multilingual AI Customer Service & Live Chat SaaS",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/90dfed83-0c74-4fa5-9639-d54e3e4976ee.png?auto=format",
-      "url": "https://www.producthunt.com/r/OSI37RVFPLC5KL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/telostack-global?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236363",
-      "name": "TrackRisu",
-      "tagline": "Snap a receipt, and your budget tracks itself",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/8259a1d5-9cb1-4fd9-b638-4a4717007a7e.png?auto=format",
-      "url": "https://www.producthunt.com/r/FWKXJBN4WZSTOE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "finance"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/trackrisu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236470",
-      "name": "MinaTube",
-      "tagline": "Turn YouTube comments into your next 10 video titles",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/2c3378c5-c2ff-4bba-ab91-cd9411328b70.png?auto=format",
-      "url": "https://www.producthunt.com/r/A42TVBS5ELE3RY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/minatube?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1236997",
-      "name": "Bot Shelf",
-      "tagline": "Stop selling prompts. Sell jobs that already ran.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/081287be-1b09-4c54-ba5a-6ef6bb412aa7.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/KD7X7MYX7PK7UJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite",
-        "dev"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/bot-shelf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235721",
-      "name": "Verdio",
-      "tagline": "Five sharp questions. One clear verdict that takes a side.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/9c9374de-6463-4480-ad3e-d66cf836f30f.png?auto=format",
-      "url": "https://www.producthunt.com/r/5QSCKPDKTOJ4HK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/verdio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1225461",
-      "name": "BENEFÜ",
-      "tagline": "Communicates. Schedules. Solves.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/322fe237-07ec-45df-a2a3-0de1adfcfe9e.jpeg?auto=format",
-      "url": "https://www.producthunt.com/r/F77BFITJXWTDBJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/benefu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1191023",
-      "name": "eeagle.ai",
-      "tagline": "AI outcome layer for the web",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/ec2793f1-11a2-4067-b76d-24d35872d6a5.png?auto=format",
-      "url": "https://www.producthunt.com/r/2XGT2ZYSDTCO6U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "data"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/eeagle-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235824",
-      "name": "Radar",
-      "tagline": "Two apps, one workflow for Latin American investors",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/3cc9f435-690b-45b9-8999-8027a2690a6a.png?auto=format",
-      "url": "https://www.producthunt.com/r/55ZLB4SVXA5UCY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/radar-52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1229876",
-      "name": "Ninth Salon",
-      "tagline": "Your photo, painted like a Renaissance master",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/a248a3dc-6309-4edc-9965-e7b744f7ff7d.png?auto=format",
-      "url": "https://www.producthunt.com/r/4KOBQT6BCC32XF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "image"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/ninth-salon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1235260",
-      "name": "CreditFX",
-      "tagline": "Stop counting credits. Start understanding them.",
-      "tagline_fr": null,
-      "logo": "https://ph-files.imgix.net/7fabeaea-56b2-4294-9683-550ed53986d7.png?auto=format",
-      "url": "https://www.producthunt.com/r/5ZM7GXGLGHTIOG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "productivite"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/creditfx-the-exchange-rate-for-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null
-    },
-    {
-      "id": "ph-1218195",
-      "name": "LeadGennie",
-      "tagline": "AI-driven outbound sales platform.",
-      "url": "https://www.producthunt.com/r/3U6KFSL5BHQ2YH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "marketing"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/leadgennie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null,
-      "tagline_fr": null
-    },
-    {
-      "id": "ph-1232853",
-      "name": "naffo.tech",
-      "tagline": "Ask, Predict, Optimize, and Act",
-      "url": "https://www.producthunt.com/r/OIDFYEMFZ23C3L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "autre"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/naffo-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null,
-      "tagline_fr": null
-    },
-    {
-      "id": "ph-1236317",
-      "name": "Mireka",
-      "tagline": "Create and edit AI images with top models in one place",
-      "url": "https://www.producthunt.com/r/ZE3WUS4IOIVORB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "categories": [
-        "design",
-        "video",
-        "image"
-      ],
-      "pricing": "a-verifier",
-      "pricing_note": "Non confirme automatiquement, verifier sur le site avant de renseigner une carte.",
-      "no_credit_card": null,
-      "source": "producthunt",
-      "source_url": "https://www.producthunt.com/products/mireka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Radar+IA+Dashboard+%28ID%3A+297471%29",
-      "launched_at": "2026-08-31T07:01:00Z",
-      "youtube": null,
-      "tagline_fr": null
     }
   ]
 }
